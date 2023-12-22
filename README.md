@@ -8,6 +8,6 @@ Feel free to check out any of my stuff!
 
 Recently, I completed a full stack web development bootcamp at Dev Academy Aotearoa, which finished in December 2023. Many of my repos are challenges that I completed during this bootcamp period. 
 
-At the moment, I'm working on a web app for interfacing with various Open AI GPT models. [https://github.com/Blue-Pilkinton-Ching/ChatGPT-Website](https://github.com/Blue-Pilkinton-Ching/ChatGPT-Website)
+At the moment, I'm working on a [https://github.com/Blue-Pilkinton-Ching/ChatGPT-Website](web app) for interfacing with various Open AI GPT models. 
 
 Cheers!
