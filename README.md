@@ -1,7 +1,5 @@
 ### Kia ora! 👋
 
-Kia ora!
-
 Since the age of ten or eleven, I have been programming. I started with scratch, the visual block-based programming language, and since then have gone to develop games and web apps, both independently and in groups of teams. I love to learn, and get a kick out of building interactive and practical products. 
 
 Recently, I started a full stack web development bootcamp at Dev Academy Aotearoa, which is set to finish in December 2023. This course has given me a much deeper understanding of programming & workflow outside of game engines. Dev Academy has taught me: 
