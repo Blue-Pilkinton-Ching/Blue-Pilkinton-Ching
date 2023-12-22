@@ -1,4 +1,4 @@
-### Kia ora! 👋
+### Kia ora, I'm Blue!👋
 
 Since the age of ten or eleven, I have been programming. I started with scratch, the visual block-based programming language, and since then have gone to develop games and web apps, both independently and in groups of teams. I love to learn, and get a kick out of building interactive and practical products. 
 
